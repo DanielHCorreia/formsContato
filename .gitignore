@@ -1,0 +1,5 @@
+  /venv
+*.pyc
+.vscode
+/media
+/db.sqlite3
